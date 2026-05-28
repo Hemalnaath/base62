@@ -1,0 +1,6 @@
+{
+  "name": "URL Shortener",
+  "description": "A high-performance URL shortener with analytics, custom aliases, expiration controls, QR codes, and bulk CSV uploads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
