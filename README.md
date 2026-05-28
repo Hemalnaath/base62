@@ -131,5 +131,4 @@ A high-performance, production-grade URL shortening, QR generation, and real-tim
 
 ---
 
-### Crafted with absolute precision for hackathons.
-### Powered by [katomaran.com](https://katomaran.com)
+This project is a part of a hackathon run by https://katomaran.com
