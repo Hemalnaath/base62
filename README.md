@@ -124,7 +124,7 @@ A high-performance, production-grade URL shortening, QR generation, and real-tim
 
 ## ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ## LIVE DEMONSTRATION AND MEDIA
-youtube video link : https://youtu.be/U5fOga5iCbE<img width="2400" height="3200" alt="url_shortener_architecture" src="https://github.com/user-attachments/assets/a2a6056f-21be-4acf-96db-1d5b7a7de0ac" />
+youtube video link : https://youtu.be/U5fOga5iCbE
 <img width="2400" height="3200" alt="url_shortener_architecture" src="https://github.com/user-attachments/assets/f5c540a5-873b-4cbf-992d-814b0f225c2b" />
 
 ## ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
